@@ -1,2 +1,2 @@
 # demo-delta
-hi this is using Git &amp; Github 
+hi this is using Git &amp; Github. 
